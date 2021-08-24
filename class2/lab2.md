@@ -1,6 +1,6 @@
 ### Lab 2: Working with CSV and Shapefile data, data Joins and Field Calculator on QGIS
 
-In this first actual assignment for the semester you will need to implement things we learned in class to wrangle data and creating a data visualization on QGIS.
+In this first actual assignment for the semester you will need to implement things we learned in class to wrangle data and create a data visualization on QGIS.
 
 Here we will explore some NYC 311 aggregated data and analyze the trends around illegal fireworks in the month of June 2021.  
 
