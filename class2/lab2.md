@@ -35,7 +35,7 @@ Once you have your expression ready (with no errors) click OK to create the new 
 
 #### Before joining make sure to change 311 data Zip Code field from string to real number
 
-Check out this[QGIS documentation](https://docs.qgis.org/2.14/en/docs/user_manual/working_with_vector/expression.html) on how to do so (to_real).
+Check out this [QGIS documentation](https://docs.qgis.org/2.14/en/docs/user_manual/working_with_vector/expression.html) on how to do so (to_real). You would want to create a new field which is teh converted zip code (and therefore use the field expression again). 
 
 #### 3. Time to Join layers!
 
