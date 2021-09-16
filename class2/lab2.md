@@ -33,6 +33,10 @@ Once you have your expression ready (with no errors) click OK to create the new 
 
 - remember:  name your new field, this will be the name of your new column.
 
+#### Before joining make sure to change 311 data Zip Code field from string to real number
+
+Check out this[QGIS documentation](https://docs.qgis.org/2.14/en/docs/user_manual/working_with_vector/expression.html) on how to do so (to_real).
+
 #### 3. Time to Join layers!
 
 Since the 311 data has no x,y coordinates it needs to be merged with the zip code layer to be visualized. All we need to merge both layers is a common column which luckily we have! This is the zip code column.
