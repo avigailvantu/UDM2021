@@ -46,7 +46,9 @@ For our project we will work withe level 2 data.
 We do so to minimize the data (otherwise it will be too big and QGIS will run very slowly)
 * Click OK to finalize the filtering
 
-*IMAGE*
+
+![] (https://github.com/avigailvantu/UDM2021/blob/main/Class%206/QueryBuilder.png)
+
 
 ### Join GADM and Facebook Movement Range Maps datasets
 
@@ -73,4 +75,4 @@ To wrap up this map, you may want to display the one of the XYZ tiles (Google ma
 * Looking at the map you created, what are some trends in the "stay put" trends in Brazil? Which areas have seen a bigger proportions of people staying put?
 * Based on your understanding of the data, can you think of any limitations this data can introduce in making conclusions about the entire Brazilian population?
 
-*Sample MAP*
+![](https://github.com/avigailvantu/UDM2021/blob/main/Class%206/mapFB.png)
