@@ -20,7 +20,7 @@ Get data:
     4. Click add
 
 
-![alt text][https://github.com/avigailvantu/UDM2021/blob/main/Class%206/addData.png]
+[alt text]: https://github.com/avigailvantu/UDM2021/blob/main/Class%206/addData.png
 
 ### 2. ADD GADM administrative boundaries
 GADM stands for Database of Global Administrative Areas and as its name suggests it provides administrative data for many areas of the world. There are 3 levels of data, when 0 is the largest and 2 is the smallest:
