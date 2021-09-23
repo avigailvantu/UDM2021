@@ -1,16 +1,17 @@
 # Class 6: Data for Social Good Continued: Facebook and GADM administrative boundaries.
 
-Last week we explored some data sources for using data from organizations and companies that curate and release data for areas of the world that are "data poor". Facebook for Good has recently released a few datasets that are delivered in easy-to-use formats.
+Last week we explored some data sources for using data from organizations and companies that curate and release data for areas of the world that are "data poor". Facebook for Good has recently released a few datasets that are delivered in easy-to-use formats and allow us a better understanding of areas of the world that otherwise would have limited data sources. 
 
 ## Get data
 
 ### 1. Facebook Movement Range Maps data
-One of those datasets are the Movement Range Maps which capture changes in peopele's movement around the COVID-19 crisis which included an health emergency as well as government issued lockdowns.
+One of the datasets from Facebook are the Movement Range Maps which capture changes in peopele's movement around the COVID-19 crisis and include an health emergency as well as government issued lockdowns.
 
+Get data: 
 * [Go to HDX's data platform](https://data.humdata.org/), search for the Facebook data page
 * Navigate to the Movement Range Maps data.
-* Download the entire data "movement-range-data[yesterday's-date].zip".
-* note that since this data is updated constantly you will have larger date ranges than in this tutorial..
+* Download the entire data, it is likely to be named: "movement-range-data[yesterday's-date].zip".
+* note that since this data is updated constantly you will have a large/different date ranges than I do in this tutorial.
 * Add the txt file as delimited layer
 * make sure these boxes are checked:
     1. Custom delimited
