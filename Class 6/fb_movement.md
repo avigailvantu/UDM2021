@@ -47,7 +47,7 @@ We do so to minimize the data (otherwise it will be too big and QGIS will run ve
 * Click OK to finalize the filtering
 
 
-![] (https://github.com/avigailvantu/UDM2021/blob/main/Class%206/QueryBuilder.png)
+![](https://github.com/avigailvantu/UDM2021/blob/main/Class%206/QueryBuilder.png)
 
 
 ### Join GADM and Facebook Movement Range Maps datasets
