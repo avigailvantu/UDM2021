@@ -18,6 +18,24 @@ Load the data into QGIS, note that the csv data should be added through the Laye
 
 * Important: Remember to save your project and locate your data in a place that is permanent before starting the project.
 
+### Replace empty values with 0's
+
+The FWZip field has missing values for zeros. To fix this issue you will need to create a new field, which will generate the NULL values and then replace NULL with 0's.
+
+#### a. Create a new field (new_fw) using this SQL query: 
+CASE WHEN  "FWbyzip"  IS NULL
+THEN '0' 
+ELSE  "FWbyzip" 
+END
+
+#### b. In field calculator click “Update existing field” to update the column you just created (new_fw). Here you will replace the NULL values with 0. Write this SQL query: 
+CASE WHEN  "new_fw"  IS NULL
+THEN 0
+ELSE  "new_fw" 
+END
+
+a and b should create the "new_fw" column with 0 in cells with no fire works. 
+
 
 #### 2. Field Calculator: Create a new field to express the % of illegal fireworks complaints.
 
