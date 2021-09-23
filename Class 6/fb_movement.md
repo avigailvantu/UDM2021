@@ -41,7 +41,7 @@ For our project we will work withe level 2 data.
 * Right click the Facebook Movement Range layer  --> Filter
 * A window will open where you can write your query.
 * The ds column is the date column. Choose in the "field" window. In "Values" click "All" to view all dates available in the data.
-* filter about a week of data, for example these dates:
+* filter about a week of data, *for example* these dates:
 "ds" > '2021-01-01'  AND "ds"<'2021-01-07'
 We do so to minimize the data (otherwise it will be too big and QGIS will run very slowly)
 * Click OK to finalize the filtering
@@ -59,6 +59,8 @@ In the layer properties go to Joins and click the + sign. In the joins pop-up wi
 * Join field: Polygon Id
 * Target field: GID 2
 
+This will create a merge between both layers using level 2 column. 
+
 Once you finalize this join you should be able to have the Facebook data columns appearing on the GADM layer.
 
 ### Symbolize:
@@ -70,9 +72,13 @@ In the layer's symbolization, choose this column and apply a graduated symboliza
 You may notice that a few counties did not merge in the join process. This is because the Facebook data excludes areas with small sample size (small amount of  FB users contributing data in these areas).
 
 ### Interpretations:
-To wrap up this map, you may want to display the one of the XYZ tiles (Google maps, OSM). This will help with navigation.
+To wrap up this map, you may want to display one of the XYZ tiles (Google maps, OSM). This will help with navigation.
+
+If you want to add an XYZ tile to your QGIS project, here's a useful [resource.] (https://www.spatialbias.com/2018/02/qgis-3.0-xyz-tile-layers/)
 
 * Looking at the map you created, what are some trends in the "stay put" trends in Brazil? Which areas have seen a bigger proportions of people staying put?
 * Based on your understanding of the data, can you think of any limitations this data can introduce in making conclusions about the entire Brazilian population?
+
+Summarize your conclusions in 1-2 paragraphs and them on Class 6 discussion board on BrightSpace 
 
 ![](https://github.com/avigailvantu/UDM2021/blob/main/Class%206/mapFB.png)
