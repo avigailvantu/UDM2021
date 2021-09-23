@@ -23,17 +23,21 @@ Load the data into QGIS, note that the csv data should be added through the Laye
 The FWZip field has missing values for zeros. To fix this issue you will need to create a new field, which will generate the NULL values and then replace NULL with 0's.
 
 #### a. Create a new field (new_fw) using this SQL query: 
+``` sql
+
 CASE WHEN  "FWbyzip"  IS NULL
 THEN '0' 
 ELSE  "FWbyzip" 
 END
-
+```
 #### b. In field calculator click “Update existing field” to update the column you just created (new_fw). Here you will replace the NULL values with 0. Write this SQL query: 
+``` sql
+
 CASE WHEN  "new_fw"  IS NULL
 THEN 0
 ELSE  "new_fw" 
 END
-
+```
 a and b should create the "new_fw" column with 0 in cells with no fire works. 
 
 
