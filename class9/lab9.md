@@ -3,7 +3,7 @@
 Google Earth Engine (GEE) is a cloud based and free platform hosted by Google for accessing and analyzing satellite imagery. The GEE platform allows access to both archives and up-to-date datasets for areas of all areas of the world.
 
 ### 1. Getting Started with GEE:
-To launch GEE you will need to go to [this address](code.earthengine.google.com). You will be directed to a welcome page and will need to choose the Google account you want to create your GEE account with. To get access to a GEE account you will need to submit an application. Once you choose a Gmail account you want to create your GEE account with you will need to follow the instructions to apply for access.
+To launch GEE you will need to go to [this address](https://signup.earthengine.google.com/). You will be directed to a welcome page and will need to choose the Google account you want to create your GEE account with. To get access to a GEE account you will need to submit an application. Once you choose a Gmail account you want to create your GEE account with you will need to follow the instructions to apply for access.
 
 Once you submit the request form you will need to wait for an email confirmation. It best if you use your NYU email to create an account.
 
