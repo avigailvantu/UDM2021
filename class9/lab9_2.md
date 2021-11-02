@@ -75,3 +75,7 @@ and adds the dataset and visualization variables as a map layer called "True col
  My map looks like this:
 
  ![s](https://github.com/avigailvantu/UDM2021/blob/main/class9/Screen%20Shot%202021-11-01%20at%208.29.13%20PM.png)
+
+ ### 4. Use the inspector tool to query the map results:
+
+ Finally, once you click on the "inspector" tool you'll be able to query the value for a particular pixel on the map. 
