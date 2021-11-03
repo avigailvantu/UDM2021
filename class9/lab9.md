@@ -17,18 +17,18 @@ Once your account has been approved you should be able to access GEE's main inte
 
 https://code.earthengine.google.com/
 
- This interface includes multiple functions to store, view, and share data and analysis results. The most important part of this interface is the code editor that appears at the center of the page.
+ This interface includes multiple functions to store, view, and share data and analysis results. The most important part of this interface is the code editor which appears at the center of the page.
 
  ![GEE Interface](https://github.com/avigailvantu/UDM2021/blob/main/class9/GEEinterface.png)
 
  #### 1. GEE's code editor:
- This is where we will write the scripts to access, display and analyze the data. This is a Java Script code editor with some GEE specific commands (more on that later). In the editor you can load existing code or create new ones and run it directly into Google's cloud. Once your code is ready to run you'll click the "run" button. This will execute the code and run the script in your browser.
+ This is where we will write the scripts to access, display and analyze the data. This is a Javascript code editor with some GEE specific commands (more on that later). On this editor you can load existing code or create new ones and then run it directly into Google cloud. Once your code is ready to run you'll click the "run" button. This will execute the code and run the script on your browser.
 
    #### 2. Inspector, console and tasks tabs:
 
-   These 3 tabs in the right side of the GEE interface provide information and display the results of your script.
+   These 3 tabs in the right side of GEE's interface provide information and display the results of your script.
 
-   The *inspector* tab will allow you to explore the results of an analysis for a particular area. This is a great tool to validate and test your code while working on developing it or while trying to understand someone else's script. When activated the info on the inspector will show the layers values where the cursor is placed.  
+   The *inspector* tab will allow you to explore the results of an analysis for a particular area. This is a great tool to validate and test your code while working on developing it or while trying to understand someone else's script. When activated, the info on the inspector will show the layer's values where the cursor is placed.  
 
    The *console* tab along with the map displays the results of a given script.
 
