@@ -1,6 +1,6 @@
 ## Class 9: Getting started with JavaScript for GEE
 
-No prior knowledge in coding is needed to get started with some simple code in GEE's Code Editor. Here we will cover some useful lines of code for you to get started with GEE.
+No prior knowledge in coding is needed to get started with some simple code on GEE's Code Editor. Here we will cover some useful lines of code for you to get started with GEE.
 
 In Earth Engine we will usually use images or image collections. **Images** are georefrenced, with a particular resolution and with a set projection. As it names implies, **image collections** are collections of images and are usually composed of satellite imagery from different dates. On top of their similarity to images, these collections can also be reduced, filtered and sorted.
 
