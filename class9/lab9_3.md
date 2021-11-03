@@ -1,25 +1,23 @@
 ## Class 9: Getting started with JavaScript for GEE
 
-No prior knowledge in coding is needed to get started with some simple codes in GEE's Code Editor. Here we will cover some useful lines of code for you to get started with GEE.
+No prior knowledge in coding is needed to get started with some simple code in GEE's Code Editor. Here we will cover some useful lines of code for you to get started with GEE.
 
 In Earth Engine we will usually use images or image collections. **Images** are georefrenced, with a particular resolution and with a set projection. As it names implies, **image collections** are collections of images and are usually composed of satellite imagery from different dates. On top of their similarity to images, these collections can also be reduced, filtered and sorted.
 
-* The **Map** function applies a function of a set of images (or an entire image collection) and **reduce** aggregates collections into one image (by averaging/minimizing/maximizing etc ).
+* The **Map** function applies a function of a set of images (or an entire image collection) and **reduce** aggregates collections into one image (by averaging/minimizing/maximizing etc).
 
 * **ee.image()** this argument is used to specify which image we use for our code. An image ID needs to go inside the parentheses and it can be found in the data catalog page for a particular data collection "code snippet" section.
 
-* **Map.setCenter()** argument is used to set the center (alt, lon) and the zoom level of the map. Note that this is solely a visualization specification and won't impact the analysis or data query.
+* **Map.setCenter()** argument is used to set the center (lat, lon) and the zoom level of the map. Note that this is solely a visualization specification and won't impact the analysis or data query.
 * **addLayer()** is used to add a particular image into the map view on GEE's code editor.
 This argument can be customized so that only a value range will be displayed on the map and to display an image using chosen color palette (this part of the argument is called visParams).  
 
 ### Write a simple code to display the Hansen Global Forest Change data
 
-NASA provided a pretty cool data which reflects the results of a time-series analysis using Landsat images from 2000 to nowdays (https://developers.google.com/earth-engine/datasets/catalog/UMD_hansen_global_forest_change_2020_v1_8)
-
-The results provide a multi band data documenting areas where there was forest gain and loss over this period of time.
+NASA provides a pretty cool data which reflects the results of a time-series analysis using Landsat images from 2000 to nowdays (https://developers.google.com/earth-engine/datasets/catalog/UMD_hansen_global_forest_change_2020_v1_8). The results provide a multi band data documenting areas where there was forest gain and loss over this period of time.
 
 * Let's start with writing a simple code to display this data.
-* First visualize the data, write this code into your code editor and click Run:
+* First visualize the data, copy this code into your code editor and click Run:
 
 ```javascript
 var gfc = ee.Image('UMD/hansen/global_forest_change_2020_v1_8');
