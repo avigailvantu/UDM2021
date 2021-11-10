@@ -1,6 +1,6 @@
 ## Class 9: Exploring datasets on Google Earth Engine
 
-One of the most existing reasons to use and love GEE is their abundant (and free!!) data catalog.
+One of the most exciting reasons to use and love GEE is its abundant (and free!!) data catalog.
 
 There are a variety of datasets included in the catalog ranging from SRTM (elevation) data to nighttime lights and land cover data. GEE has a highly detailed page for each data which aims at helping developers and analysts get stared with using given data.
 
