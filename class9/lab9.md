@@ -5,7 +5,7 @@ Google Earth Engine (GEE) is a cloud based and free platform hosted by Google fo
 ### 1. Getting Started with GEE:
 To launch GEE you will need to go to [this address](https://signup.earthengine.google.com/). You will be directed to a welcome page and will need to choose the Google account you want to create your GEE account with. To get access to a GEE account you will need to submit an application. Once you choose a Gmail account you want to create your GEE account with you will need to follow the instructions to apply for access.
 
-Once you submit the request form you will need to wait for an email confirmation. It best if you use your NYU email to create an account.
+Once you submit the request form you will need to wait for an email confirmation. It's best if you use your NYU email to create an account.
 
 Once your GEE account is approved you will get an email notification and a few links to get you started.
 
@@ -22,7 +22,7 @@ https://code.earthengine.google.com/
  ![GEE Interface](https://github.com/avigailvantu/UDM2021/blob/main/class9/GEEinterface.png)
 
  #### 1. GEE's code editor:
- This is where we will write the scripts to access, display and analyze the data. This is a Javascript code editor with some GEE specific commands (more on that later). On this editor you can load existing code or create new ones and then run it directly into Google cloud. Once your code is ready to run you'll click the "run" button. This will execute the code and run the script on your browser.
+ This is where we will write the scripts to access, display and analyze the data. This is a Javascript code editor with some GEE specific commands (more on that later). On this editor you can load existing code or create new ones and then run it directly into Google's cloud computing. Once your code is ready to run you'll click the "run" button. This will execute the code and run the script on your browser.
 
    #### 2. Inspector, console and tasks tabs:
 
