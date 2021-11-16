@@ -30,10 +30,10 @@ Hint: Use a mathematical expression. Divide each pixel in (b) with its respectiv
 Create a short presentation (3-5 slides) with your findings from the assignment. Include maps, data sources and discuss any missing data and limitations you encountered along the way.  The assignment is due on Nov 24th, please submit your slides to NYU Brightspace before calss. 
 
 
-
-
-
- 
-
-
+Resources:
+* https://data.gov.sg/
+* https://www.singstat.gov.sg/
+* https://developers.google.com/earth-engine/guides
+* https://www.giscourse.com/how-to-download-osm-data-using-quickosm-plugin-in-qgis/
+* https://wiki.openstreetmap.org/wiki/Map_features
 
