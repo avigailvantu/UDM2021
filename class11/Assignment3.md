@@ -17,14 +17,16 @@ Hint: Use a mathematical expression. Divide each pixel in (b) with its respectiv
 
 ## Delivery:
 
-a. Compare the outputs for 2013 and 2021. What are some visible differences? 
-Using the quick OSM plugin, download OSM data (whatever key you think makes most sense) for Singapore  
-Filter through the data and display the data that makes most sense to you. 
-If you feel it’s needed, browse online for more data that could help you understand the growth in nighttime lights between 2013 and 2021  
-Using the data and raster files you acquired for Singapore imagine you were asked by a retail store chain to provide an analysis of which areas of Singapore are experiencing the most growth:
-can you tell a compelling story as to what type of trends accrued in Singapore between 2013 and 2019? 
-Which land uses are most common in those area that experienced the largest growth in nighttime lights between 2013 and 2019?
-Which neighborhood/area of Singapore would you recommend the retail store should locate in? Explain why?
+1. Compare the outputs for 2013 and 2021. What are some visible differences? 
+2. Using the quick OSM plugin, download OSM data (whatever key you think makes most sense) for Singapore  
+3. Filter through the data and display the data that makes most sense to you. 
+4. If you feel it’s needed, browse online for more data that could help you understand the growth in nighttime lights between 2013 and 2021  
+5. Using the data and raster files you acquired for Singapore imagine you were asked by a retail store chain to provide an analysis of which areas of Singapore are experiencing the most growth:
+* can you tell a compelling story as to what type of trends accrued in Singapore between 2013 and 2019? 
+* Which land uses are most common in those area that experienced the largest growth in nighttime lights between 2013 and 2019?
+* Which neighborhood/area of Singapore would you recommend the retail store should locate in? Explain why?
+
+
 Create a short presentation (3-5 slides) with your findings from the assignment. Include maps, data sources and discuss any missing data and limitations you encountered along the way.  The assignment is due next week, Nov 24th. 
 
 
