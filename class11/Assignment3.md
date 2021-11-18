@@ -10,14 +10,14 @@
     b. January - April 2019
 Hint: use a reducer to extract the **mean** value for these 3 months. 
 3.Create a new image which reflects the following calculation: 
-     The share of 2021's NTL in 2013 NTL
+     The share of 2019's NTL in 2013 NTL
 Hint: Use a mathematical expression. Divide each pixel in (b) with its respective pixels in (a)
 4. Clip the data to the Singapore polygon.
 5. Export these 3 outputs as Geotiffs and load them into QGIS. 
 
 ## Delivery:
 
-1. Compare the outputs for 2013 and 2021. What are some visible differences between these two time periods? 
+1. Compare the outputs for 2013 and 2019. What are some visible differences between these two time periods? 
 2. Using the quick OSM plugin, download OSM data (whatever keys you think make most sense) for Singapore. Filter through the data and display the data that makes most sense to you. 
 3. If you feel it’s needed, browse online for more data which could help you understand the growth in nighttime lights between 2013 and 2019 
 4. Using the data and raster files you acquired for Singapore imagine you were asked by a retail store chain to provide an analysis of which areas of Singapore are experiencing the most economic growth:
