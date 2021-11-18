@@ -1,6 +1,8 @@
 ## Class 11: Google Earth Engine: Nigthtime lights data 
 
-### Assignment 3 (due Nov 24th,2021) 
+### Assignment 3 (due Nov 24th,2021)
+
+Everyone are required to complete, submit and present this assignment. During next week's class presentations you'll be voting for your classmates presentations. The winners will receive extra credit points. 
 
 ### Work in groups of 2-3 students. 
 
