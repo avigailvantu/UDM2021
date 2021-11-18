@@ -9,7 +9,7 @@
     a. January - April 2013 
     b. January - April 2019
 Hint: use a reducer to extract the **mean** value for these 3 months. 
-3.Create a new image which reflects the following calculation: 
+3. Create a new image which reflects the following calculation: 
      The share of 2019's NTL in 2013 NTL
 Hint: Use a mathematical expression. Divide each pixel in (b) with its respective pixels in (a)
 4. Clip the data to the Singapore polygon.
