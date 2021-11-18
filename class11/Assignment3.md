@@ -36,4 +36,5 @@ Resources:
 * https://developers.google.com/earth-engine/guides
 * https://www.giscourse.com/how-to-download-osm-data-using-quickosm-plugin-in-qgis/
 * https://wiki.openstreetmap.org/wiki/Map_features
+* Quick OSM assignment https://github.com/avigailvantu/UDM2021/blob/main/Class5/lab5.md
 
